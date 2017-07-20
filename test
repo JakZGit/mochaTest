@@ -8,6 +8,6 @@ describe('String#split', function(){
 
 describe('adding two numbers', function(){
   it('should return the sum of the 2 numbers', function(){
-    assert.equal(1+2,2);
+    assert.equal(1+1,2);
   });
 });
