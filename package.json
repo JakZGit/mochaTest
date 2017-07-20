@@ -1,0 +1,22 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakZGit/mochaTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakZGit/mochaTest/issues"
+  },
+  "homepage": "https://github.com/JakZGit/mochaTest#readme",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
